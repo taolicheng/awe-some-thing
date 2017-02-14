@@ -4,7 +4,7 @@
 ### HEP Tools
 * Root [User’s Guide](https://root.cern.ch/root/htmldoc/guides/users-guide/ROOTUsersGuide.html)
 
-### Publication Tools
+### Publishing Tools
 * Gitbook: https://www.gitbook.com
 
 ### Useful Tools
