@@ -2,7 +2,14 @@
 
 
 ### HEP Tools
+
+#### Data Analysis
 * Root [User’s Guide](https://root.cern.ch/root/htmldoc/guides/users-guide/ROOTUsersGuide.html)
+
+#### Feynman Diagrams
+* Jaxodraw: http://jaxodraw.sourceforge.net/
+* Feynmp: http://osksn2.hep.sci.osaka-u.ac.jp/~taku/osx/feynmp.html
+* In Root: https://root.cern.ch/root/html/tutorials/graphics/feynman.C.html
 
 ### Publishing Tools
 * Gitbook: https://www.gitbook.com
