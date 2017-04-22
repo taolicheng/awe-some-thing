@@ -17,3 +17,6 @@
 ### Useful Tools
 * Markdown Cheetsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * Create and share simple UML diagrams: https://yuml.me/diagram/scruffy/class/samples
+
+### Open Resources
+* Meta Library: https://sites.google.com/site/themetalibrary/library-genesis
