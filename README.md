@@ -11,6 +11,9 @@
 * Feynmp: http://osksn2.hep.sci.osaka-u.ac.jp/~taku/osx/feynmp.html
 * In Root: https://root.cern.ch/root/html/tutorials/graphics/feynman.C.html
 
+#### Plotting Tools
+* Gliffy: https://www.gliffy.com/, for flowcharts...
+
 ### Publishing Tools
 * Gitbook: https://www.gitbook.com
 
