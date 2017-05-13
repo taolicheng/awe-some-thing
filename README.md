@@ -13,6 +13,7 @@
 
 #### Plotting Tools
 * Gliffy: https://www.gliffy.com/, for flowcharts...
+* some free graphics softwares: http://www.freebyte.com/graphicprograms/
 
 ### Publishing Tools
 * Gitbook: https://www.gitbook.com
