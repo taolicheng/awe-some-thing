@@ -14,6 +14,7 @@
 #### Plotting Tools
 * Gliffy: https://www.gliffy.com/, for flowcharts...
 * Graphviz: http://graphviz.org/Home.php 
+* Networks: https://graph-tool.skewed.de/; https://networkx.github.io/
 * some free graphics softwares: http://www.freebyte.com/graphicprograms/
 
 ### Publishing Tools
