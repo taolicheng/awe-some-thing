@@ -24,7 +24,7 @@
 * Markdown Cheetsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * Create and share simple UML diagrams: https://yuml.me/diagram/scruffy/class/samples
 * Watermark: https://www.watermark.ws/
-
+* Emojis for web: https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 ### Open Resources
 * Meta Library: https://sites.google.com/site/themetalibrary/library-genesis
