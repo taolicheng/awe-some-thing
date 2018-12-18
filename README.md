@@ -17,8 +17,9 @@
 * Networks: https://graph-tool.skewed.de/; https://networkx.github.io/
 * some free graphics softwares: http://www.freebyte.com/graphicprograms/
 
-### Publishing Tools
+### Documenting and Publishing Tools
 * Gitbook: https://www.gitbook.com
+* Sphinx: https://github.com/sphinx-doc/sphinx, https://daler.github.io/sphinxdoc-test/includeme.html
 
 ### Useful Tools
 * Markdown Cheetsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
